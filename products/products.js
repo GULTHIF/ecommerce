@@ -1,0 +1,1 @@
+alert("added products.js");
